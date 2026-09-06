@@ -87,16 +87,15 @@ I also enjoy competitive programming and have solved **250+ DSA problems** acros
 
 ## Certifications
 
-<p align="center">
+<div align="center">
 
-<img src="https://img.shields.io/badge/Microsoft-Security%20Operations%20Analyst%20Associate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=120&text=AWS&fontSize=55&fontColor=58A6FF&desc=AWS%20Certified%20Cloud%20Practitioner&descSize=16&descAlignY=75" />
 
-<img src="https://img.shields.io/badge/SC--200-Certified-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+<br>
 
-<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=120&text=MICROSOFT&fontSize=42&fontColor=58A6FF&desc=Security%20Operations%20Analyst%20Associate%20%7C%20SC-200&descSize=14&descAlignY=75" />
 
-</p>
-
+</div>
 ---
 
 ## Competitive Programming
