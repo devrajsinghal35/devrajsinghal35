@@ -1,0 +1,1264 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1054" height="246" viewBox="0 0 1054 246" font-family="monospace">
+
+    <defs>
+        <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+            <feGaussianBlur stdDeviation="3" result="blur" />
+            <feComposite in="SourceGraphic" in2="blur" operator="over" />
+        </filter>
+        <filter id="strong-glow" x="-50%" y="-50%" width="200%" height="200%">
+            <feGaussianBlur stdDeviation="6" result="blur" />
+            <feComposite in="SourceGraphic" in2="blur" operator="over" />
+        </filter>
+        <linearGradient id="scanGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" stop-color="#00ff41" stop-opacity="0" />
+            <stop offset="80%" stop-color="#00ff41" stop-opacity="0.1" />
+            <stop offset="100%" stop-color="#00ff41" stop-opacity="0.8" />
+        </linearGradient>
+        <style>
+            .text-title { fill: #00ff41; font-size: 16px; font-weight: bold; letter-spacing: 2px; }
+            .text-sub { fill: #00802b; font-size: 12px; letter-spacing: 1px; }
+            .cell { stroke: #00ff41; stroke-width: 0.5; }
+        </style>
+    </defs>
+    <rect width="100%" height="100%" fill="#020404" />
+    <rect width="100%" height="100%" fill="none" stroke="#004d16" stroke-width="2" />
+    
+<rect width="100%" height="100%" fill="none" stroke="#001a05" stroke-width="1" stroke-dasharray="2,2" />
+<text x="50" y="40" class="text-title">CYBERCOM // COMMIT INTELLIGENCE RADAR</text>
+<text x="50" y="58" class="text-sub">TARGET: DEVRAJ SINGHAL | STATUS: ACTIVE MONITORING</text>
+<g>
+<rect x="50" y="80" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+<rect x="50" y="98" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="50" y="116" width="14" height="14" fill="#00802b" opacity="0.7" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.7;0.35;0.7;0.7" keyTimes="0;0.1;0.2;1" dur="2.0s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="50" y="134" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="50" y="152" width="14" height="14" fill="#00b33c" opacity="0.9" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.9;0.45;0.9;0.9" keyTimes="0;0.1;0.2;1" dur="2.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="50" y="170" width="14" height="14" fill="#00802b" opacity="0.7" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.7;0.35;0.7;0.7" keyTimes="0;0.1;0.2;1" dur="2.0s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="50" y="188" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+<rect x="68" y="80" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="68" y="98" width="14" height="14" fill="#00b33c" opacity="0.9" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.9;0.45;0.9;0.9" keyTimes="0;0.1;0.2;1" dur="2.5s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="68" y="116" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+<rect x="68" y="134" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+<rect x="68" y="152" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="68" y="170" width="14" height="14" fill="#004d16" opacity="0.5" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.5;0.25;0.5;0.5" keyTimes="0;0.1;0.2;1" dur="2.5s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="68" y="188" width="14" height="14" fill="#004d16" opacity="0.5" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.5;0.25;0.5;0.5" keyTimes="0;0.1;0.2;1" dur="2.5s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="86" y="80" width="14" height="14" fill="#00ff41" opacity="1.0" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="1.0;0.5;1.0;1.0" keyTimes="0;0.1;0.2;1" dur="3.0s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="86" y="98" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+<rect x="86" y="116" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="86" y="134" width="14" height="14" fill="#00b33c" opacity="0.9" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.9;0.45;0.9;0.9" keyTimes="0;0.1;0.2;1" dur="3.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="86" y="152" width="14" height="14" fill="#00b33c" opacity="0.9" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.9;0.45;0.9;0.9" keyTimes="0;0.1;0.2;1" dur="3.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="86" y="170" width="14" height="14" fill="#00b33c" opacity="0.9" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.9;0.45;0.9;0.9" keyTimes="0;0.1;0.2;1" dur="3.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="86" y="188" width="14" height="14" fill="#00802b" opacity="0.7" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.7;0.35;0.7;0.7" keyTimes="0;0.1;0.2;1" dur="3.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="104" y="80" width="14" height="14" fill="#00ff41" opacity="1.0" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="1.0;0.5;1.0;1.0" keyTimes="0;0.1;0.2;1" dur="3.5s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="104" y="98" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+<rect x="104" y="116" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="104" y="134" width="14" height="14" fill="#004d16" opacity="0.5" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.5;0.25;0.5;0.5" keyTimes="0;0.1;0.2;1" dur="3.5s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="104" y="152" width="14" height="14" fill="#00802b" opacity="0.7" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.7;0.35;0.7;0.7" keyTimes="0;0.1;0.2;1" dur="3.5s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="104" y="170" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+<rect x="104" y="188" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="122" y="80" width="14" height="14" fill="#004d16" opacity="0.5" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.5;0.25;0.5;0.5" keyTimes="0;0.1;0.2;1" dur="4.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="122" y="98" width="14" height="14" fill="#00b33c" opacity="0.9" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.9;0.45;0.9;0.9" keyTimes="0;0.1;0.2;1" dur="4.0s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="122" y="116" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="122" y="134" width="14" height="14" fill="#00b33c" opacity="0.9" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.9;0.45;0.9;0.9" keyTimes="0;0.1;0.2;1" dur="4.0s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="122" y="152" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+<rect x="122" y="170" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="122" y="188" width="14" height="14" fill="#00b33c" opacity="0.9" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.9;0.45;0.9;0.9" keyTimes="0;0.1;0.2;1" dur="4.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="140" y="80" width="14" height="14" fill="#004d16" opacity="0.5" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.5;0.25;0.5;0.5" keyTimes="0;0.1;0.2;1" dur="2.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="140" y="98" width="14" height="14" fill="#004d16" opacity="0.5" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.5;0.25;0.5;0.5" keyTimes="0;0.1;0.2;1" dur="2.0s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="140" y="116" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="140" y="134" width="14" height="14" fill="#00b33c" opacity="0.9" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.9;0.45;0.9;0.9" keyTimes="0;0.1;0.2;1" dur="2.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="140" y="152" width="14" height="14" fill="#004d16" opacity="0.5" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.5;0.25;0.5;0.5" keyTimes="0;0.1;0.2;1" dur="2.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="140" y="170" width="14" height="14" fill="#004d16" opacity="0.5" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.5;0.25;0.5;0.5" keyTimes="0;0.1;0.2;1" dur="2.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="140" y="188" width="14" height="14" fill="#00b33c" opacity="0.9" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.9;0.45;0.9;0.9" keyTimes="0;0.1;0.2;1" dur="2.0s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="158" y="80" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="158" y="98" width="14" height="14" fill="#00802b" opacity="0.7" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.7;0.35;0.7;0.7" keyTimes="0;0.1;0.2;1" dur="2.5s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="158" y="116" width="14" height="14" fill="#00b33c" opacity="0.9" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.9;0.45;0.9;0.9" keyTimes="0;0.1;0.2;1" dur="2.5s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="158" y="134" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+<rect x="158" y="152" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+<rect x="158" y="170" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="158" y="188" width="14" height="14" fill="#00802b" opacity="0.7" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.7;0.35;0.7;0.7" keyTimes="0;0.1;0.2;1" dur="2.5s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="176" y="80" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+<rect x="176" y="98" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+<rect x="176" y="116" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+<rect x="176" y="134" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="176" y="152" width="14" height="14" fill="#00ff41" opacity="1.0" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="1.0;0.5;1.0;1.0" keyTimes="0;0.1;0.2;1" dur="3.0s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="176" y="170" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="176" y="188" width="14" height="14" fill="#00b33c" opacity="0.9" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.9;0.45;0.9;0.9" keyTimes="0;0.1;0.2;1" dur="3.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="194" y="80" width="14" height="14" fill="#00802b" opacity="0.7" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.7;0.35;0.7;0.7" keyTimes="0;0.1;0.2;1" dur="3.5s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="194" y="98" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="194" y="116" width="14" height="14" fill="#00802b" opacity="0.7" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.7;0.35;0.7;0.7" keyTimes="0;0.1;0.2;1" dur="3.5s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="194" y="134" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="194" y="152" width="14" height="14" fill="#004d16" opacity="0.5" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.5;0.25;0.5;0.5" keyTimes="0;0.1;0.2;1" dur="3.5s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="194" y="170" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="194" y="188" width="14" height="14" fill="#00b33c" opacity="0.9" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.9;0.45;0.9;0.9" keyTimes="0;0.1;0.2;1" dur="3.5s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="212" y="80" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="212" y="98" width="14" height="14" fill="#00ff41" opacity="1.0" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="1.0;0.5;1.0;1.0" keyTimes="0;0.1;0.2;1" dur="4.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="212" y="116" width="14" height="14" fill="#004d16" opacity="0.5" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.5;0.25;0.5;0.5" keyTimes="0;0.1;0.2;1" dur="4.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="212" y="134" width="14" height="14" fill="#004d16" opacity="0.5" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.5;0.25;0.5;0.5" keyTimes="0;0.1;0.2;1" dur="4.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="212" y="152" width="14" height="14" fill="#004d16" opacity="0.5" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.5;0.25;0.5;0.5" keyTimes="0;0.1;0.2;1" dur="4.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="212" y="170" width="14" height="14" fill="#004d16" opacity="0.5" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.5;0.25;0.5;0.5" keyTimes="0;0.1;0.2;1" dur="4.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="212" y="188" width="14" height="14" fill="#004d16" opacity="0.5" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.5;0.25;0.5;0.5" keyTimes="0;0.1;0.2;1" dur="4.0s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="230" y="80" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+<rect x="230" y="98" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+<rect x="230" y="116" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="230" y="134" width="14" height="14" fill="#00b33c" opacity="0.9" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.9;0.45;0.9;0.9" keyTimes="0;0.1;0.2;1" dur="2.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="230" y="152" width="14" height="14" fill="#004d16" opacity="0.5" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.5;0.25;0.5;0.5" keyTimes="0;0.1;0.2;1" dur="2.0s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="230" y="170" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="230" y="188" width="14" height="14" fill="#00802b" opacity="0.7" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.7;0.35;0.7;0.7" keyTimes="0;0.1;0.2;1" dur="2.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="248" y="80" width="14" height="14" fill="#004d16" opacity="0.5" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.5;0.25;0.5;0.5" keyTimes="0;0.1;0.2;1" dur="2.5s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="248" y="98" width="14" height="14" fill="#004d16" opacity="0.5" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.5;0.25;0.5;0.5" keyTimes="0;0.1;0.2;1" dur="2.5s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="248" y="116" width="14" height="14" fill="#00ff41" opacity="1.0" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="1.0;0.5;1.0;1.0" keyTimes="0;0.1;0.2;1" dur="2.5s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="248" y="134" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="248" y="152" width="14" height="14" fill="#00802b" opacity="0.7" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.7;0.35;0.7;0.7" keyTimes="0;0.1;0.2;1" dur="2.5s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="248" y="170" width="14" height="14" fill="#004d16" opacity="0.5" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.5;0.25;0.5;0.5" keyTimes="0;0.1;0.2;1" dur="2.5s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="248" y="188" width="14" height="14" fill="#00ff41" opacity="1.0" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="1.0;0.5;1.0;1.0" keyTimes="0;0.1;0.2;1" dur="2.5s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="266" y="80" width="14" height="14" fill="#00ff41" opacity="1.0" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="1.0;0.5;1.0;1.0" keyTimes="0;0.1;0.2;1" dur="3.0s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="266" y="98" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+<rect x="266" y="116" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="266" y="134" width="14" height="14" fill="#00ff41" opacity="1.0" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="1.0;0.5;1.0;1.0" keyTimes="0;0.1;0.2;1" dur="3.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="266" y="152" width="14" height="14" fill="#00ff41" opacity="1.0" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="1.0;0.5;1.0;1.0" keyTimes="0;0.1;0.2;1" dur="3.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="266" y="170" width="14" height="14" fill="#00ff41" opacity="1.0" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="1.0;0.5;1.0;1.0" keyTimes="0;0.1;0.2;1" dur="3.0s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="266" y="188" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="284" y="80" width="14" height="14" fill="#00b33c" opacity="0.9" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.9;0.45;0.9;0.9" keyTimes="0;0.1;0.2;1" dur="3.5s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="284" y="98" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+<rect x="284" y="116" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="284" y="134" width="14" height="14" fill="#004d16" opacity="0.5" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.5;0.25;0.5;0.5" keyTimes="0;0.1;0.2;1" dur="3.5s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="284" y="152" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="284" y="170" width="14" height="14" fill="#004d16" opacity="0.5" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.5;0.25;0.5;0.5" keyTimes="0;0.1;0.2;1" dur="3.5s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="284" y="188" width="14" height="14" fill="#00ff41" opacity="1.0" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="1.0;0.5;1.0;1.0" keyTimes="0;0.1;0.2;1" dur="3.5s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="302" y="80" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+<rect x="302" y="98" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+<rect x="302" y="116" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="302" y="134" width="14" height="14" fill="#00b33c" opacity="0.9" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.9;0.45;0.9;0.9" keyTimes="0;0.1;0.2;1" dur="4.0s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="302" y="152" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="302" y="170" width="14" height="14" fill="#00b33c" opacity="0.9" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.9;0.45;0.9;0.9" keyTimes="0;0.1;0.2;1" dur="4.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="302" y="188" width="14" height="14" fill="#00802b" opacity="0.7" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.7;0.35;0.7;0.7" keyTimes="0;0.1;0.2;1" dur="4.0s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="320" y="80" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+<rect x="320" y="98" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="320" y="116" width="14" height="14" fill="#004d16" opacity="0.5" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.5;0.25;0.5;0.5" keyTimes="0;0.1;0.2;1" dur="2.0s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="320" y="134" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+<rect x="320" y="152" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+<rect x="320" y="170" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="320" y="188" width="14" height="14" fill="#004d16" opacity="0.5" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.5;0.25;0.5;0.5" keyTimes="0;0.1;0.2;1" dur="2.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="338" y="80" width="14" height="14" fill="#004d16" opacity="0.5" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.5;0.25;0.5;0.5" keyTimes="0;0.1;0.2;1" dur="2.5s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="338" y="98" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="338" y="116" width="14" height="14" fill="#004d16" opacity="0.5" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.5;0.25;0.5;0.5" keyTimes="0;0.1;0.2;1" dur="2.5s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="338" y="134" width="14" height="14" fill="#00ff41" opacity="1.0" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="1.0;0.5;1.0;1.0" keyTimes="0;0.1;0.2;1" dur="2.5s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="338" y="152" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+<rect x="338" y="170" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+<rect x="338" y="188" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+<rect x="356" y="80" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="356" y="98" width="14" height="14" fill="#00ff41" opacity="1.0" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="1.0;0.5;1.0;1.0" keyTimes="0;0.1;0.2;1" dur="3.0s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="356" y="116" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="356" y="134" width="14" height="14" fill="#004d16" opacity="0.5" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.5;0.25;0.5;0.5" keyTimes="0;0.1;0.2;1" dur="3.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="356" y="152" width="14" height="14" fill="#00802b" opacity="0.7" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.7;0.35;0.7;0.7" keyTimes="0;0.1;0.2;1" dur="3.0s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="356" y="170" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="356" y="188" width="14" height="14" fill="#004d16" opacity="0.5" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.5;0.25;0.5;0.5" keyTimes="0;0.1;0.2;1" dur="3.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="374" y="80" width="14" height="14" fill="#00ff41" opacity="1.0" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="1.0;0.5;1.0;1.0" keyTimes="0;0.1;0.2;1" dur="3.5s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="374" y="98" width="14" height="14" fill="#004d16" opacity="0.5" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.5;0.25;0.5;0.5" keyTimes="0;0.1;0.2;1" dur="3.5s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="374" y="116" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+<rect x="374" y="134" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+<rect x="374" y="152" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="374" y="170" width="14" height="14" fill="#004d16" opacity="0.5" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.5;0.25;0.5;0.5" keyTimes="0;0.1;0.2;1" dur="3.5s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="374" y="188" width="14" height="14" fill="#004d16" opacity="0.5" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.5;0.25;0.5;0.5" keyTimes="0;0.1;0.2;1" dur="3.5s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="392" y="80" width="14" height="14" fill="#004d16" opacity="0.5" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.5;0.25;0.5;0.5" keyTimes="0;0.1;0.2;1" dur="4.0s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="392" y="98" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="392" y="116" width="14" height="14" fill="#004d16" opacity="0.5" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.5;0.25;0.5;0.5" keyTimes="0;0.1;0.2;1" dur="4.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="392" y="134" width="14" height="14" fill="#00ff41" opacity="1.0" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="1.0;0.5;1.0;1.0" keyTimes="0;0.1;0.2;1" dur="4.0s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="392" y="152" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+<rect x="392" y="170" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="392" y="188" width="14" height="14" fill="#00802b" opacity="0.7" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.7;0.35;0.7;0.7" keyTimes="0;0.1;0.2;1" dur="4.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="410" y="80" width="14" height="14" fill="#00b33c" opacity="0.9" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.9;0.45;0.9;0.9" keyTimes="0;0.1;0.2;1" dur="2.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="410" y="98" width="14" height="14" fill="#00ff41" opacity="1.0" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="1.0;0.5;1.0;1.0" keyTimes="0;0.1;0.2;1" dur="2.0s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="410" y="116" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="410" y="134" width="14" height="14" fill="#00ff41" opacity="1.0" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="1.0;0.5;1.0;1.0" keyTimes="0;0.1;0.2;1" dur="2.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="410" y="152" width="14" height="14" fill="#004d16" opacity="0.5" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.5;0.25;0.5;0.5" keyTimes="0;0.1;0.2;1" dur="2.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="410" y="170" width="14" height="14" fill="#004d16" opacity="0.5" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.5;0.25;0.5;0.5" keyTimes="0;0.1;0.2;1" dur="2.0s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="410" y="188" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="428" y="80" width="14" height="14" fill="#004d16" opacity="0.5" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.5;0.25;0.5;0.5" keyTimes="0;0.1;0.2;1" dur="2.5s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="428" y="98" width="14" height="14" fill="#004d16" opacity="0.5" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.5;0.25;0.5;0.5" keyTimes="0;0.1;0.2;1" dur="2.5s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="428" y="116" width="14" height="14" fill="#00b33c" opacity="0.9" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.9;0.45;0.9;0.9" keyTimes="0;0.1;0.2;1" dur="2.5s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="428" y="134" width="14" height="14" fill="#004d16" opacity="0.5" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.5;0.25;0.5;0.5" keyTimes="0;0.1;0.2;1" dur="2.5s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="428" y="152" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="428" y="170" width="14" height="14" fill="#00802b" opacity="0.7" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.7;0.35;0.7;0.7" keyTimes="0;0.1;0.2;1" dur="2.5s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="428" y="188" width="14" height="14" fill="#00ff41" opacity="1.0" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="1.0;0.5;1.0;1.0" keyTimes="0;0.1;0.2;1" dur="2.5s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="446" y="80" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="446" y="98" width="14" height="14" fill="#00b33c" opacity="0.9" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.9;0.45;0.9;0.9" keyTimes="0;0.1;0.2;1" dur="3.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="446" y="116" width="14" height="14" fill="#00802b" opacity="0.7" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.7;0.35;0.7;0.7" keyTimes="0;0.1;0.2;1" dur="3.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="446" y="134" width="14" height="14" fill="#00802b" opacity="0.7" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.7;0.35;0.7;0.7" keyTimes="0;0.1;0.2;1" dur="3.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="446" y="152" width="14" height="14" fill="#004d16" opacity="0.5" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.5;0.25;0.5;0.5" keyTimes="0;0.1;0.2;1" dur="3.0s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="446" y="170" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="446" y="188" width="14" height="14" fill="#00ff41" opacity="1.0" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="1.0;0.5;1.0;1.0" keyTimes="0;0.1;0.2;1" dur="3.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="464" y="80" width="14" height="14" fill="#00802b" opacity="0.7" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.7;0.35;0.7;0.7" keyTimes="0;0.1;0.2;1" dur="3.5s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="464" y="98" width="14" height="14" fill="#00802b" opacity="0.7" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.7;0.35;0.7;0.7" keyTimes="0;0.1;0.2;1" dur="3.5s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="464" y="116" width="14" height="14" fill="#004d16" opacity="0.5" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.5;0.25;0.5;0.5" keyTimes="0;0.1;0.2;1" dur="3.5s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="464" y="134" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+<rect x="464" y="152" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+<rect x="464" y="170" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+<rect x="464" y="188" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+<rect x="482" y="80" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+<rect x="482" y="98" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="482" y="116" width="14" height="14" fill="#00ff41" opacity="1.0" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="1.0;0.5;1.0;1.0" keyTimes="0;0.1;0.2;1" dur="4.0s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="482" y="134" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="482" y="152" width="14" height="14" fill="#004d16" opacity="0.5" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.5;0.25;0.5;0.5" keyTimes="0;0.1;0.2;1" dur="4.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="482" y="170" width="14" height="14" fill="#00802b" opacity="0.7" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.7;0.35;0.7;0.7" keyTimes="0;0.1;0.2;1" dur="4.0s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="482" y="188" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="500" y="80" width="14" height="14" fill="#004d16" opacity="0.5" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.5;0.25;0.5;0.5" keyTimes="0;0.1;0.2;1" dur="2.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="500" y="98" width="14" height="14" fill="#00802b" opacity="0.7" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.7;0.35;0.7;0.7" keyTimes="0;0.1;0.2;1" dur="2.0s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="500" y="116" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="500" y="134" width="14" height="14" fill="#00802b" opacity="0.7" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.7;0.35;0.7;0.7" keyTimes="0;0.1;0.2;1" dur="2.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="500" y="152" width="14" height="14" fill="#00ff41" opacity="1.0" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="1.0;0.5;1.0;1.0" keyTimes="0;0.1;0.2;1" dur="2.0s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="500" y="170" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+<rect x="500" y="188" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="518" y="80" width="14" height="14" fill="#00802b" opacity="0.7" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.7;0.35;0.7;0.7" keyTimes="0;0.1;0.2;1" dur="2.5s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="518" y="98" width="14" height="14" fill="#00802b" opacity="0.7" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.7;0.35;0.7;0.7" keyTimes="0;0.1;0.2;1" dur="2.5s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="518" y="116" width="14" height="14" fill="#00b33c" opacity="0.9" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.9;0.45;0.9;0.9" keyTimes="0;0.1;0.2;1" dur="2.5s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="518" y="134" width="14" height="14" fill="#00b33c" opacity="0.9" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.9;0.45;0.9;0.9" keyTimes="0;0.1;0.2;1" dur="2.5s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="518" y="152" width="14" height="14" fill="#00b33c" opacity="0.9" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.9;0.45;0.9;0.9" keyTimes="0;0.1;0.2;1" dur="2.5s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="518" y="170" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+<rect x="518" y="188" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+<rect x="536" y="80" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="536" y="98" width="14" height="14" fill="#00b33c" opacity="0.9" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.9;0.45;0.9;0.9" keyTimes="0;0.1;0.2;1" dur="3.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="536" y="116" width="14" height="14" fill="#004d16" opacity="0.5" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.5;0.25;0.5;0.5" keyTimes="0;0.1;0.2;1" dur="3.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="536" y="134" width="14" height="14" fill="#00ff41" opacity="1.0" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="1.0;0.5;1.0;1.0" keyTimes="0;0.1;0.2;1" dur="3.0s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="536" y="152" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+<rect x="536" y="170" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+<rect x="536" y="188" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+<rect x="554" y="80" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+<rect x="554" y="98" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+<rect x="554" y="116" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="554" y="134" width="14" height="14" fill="#00ff41" opacity="1.0" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="1.0;0.5;1.0;1.0" keyTimes="0;0.1;0.2;1" dur="3.5s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="554" y="152" width="14" height="14" fill="#00b33c" opacity="0.9" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.9;0.45;0.9;0.9" keyTimes="0;0.1;0.2;1" dur="3.5s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="554" y="170" width="14" height="14" fill="#00802b" opacity="0.7" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.7;0.35;0.7;0.7" keyTimes="0;0.1;0.2;1" dur="3.5s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="554" y="188" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="572" y="80" width="14" height="14" fill="#00ff41" opacity="1.0" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="1.0;0.5;1.0;1.0" keyTimes="0;0.1;0.2;1" dur="4.0s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="572" y="98" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+<rect x="572" y="116" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="572" y="134" width="14" height="14" fill="#00ff41" opacity="1.0" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="1.0;0.5;1.0;1.0" keyTimes="0;0.1;0.2;1" dur="4.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="572" y="152" width="14" height="14" fill="#004d16" opacity="0.5" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.5;0.25;0.5;0.5" keyTimes="0;0.1;0.2;1" dur="4.0s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="572" y="170" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="572" y="188" width="14" height="14" fill="#00802b" opacity="0.7" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.7;0.35;0.7;0.7" keyTimes="0;0.1;0.2;1" dur="4.0s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="590" y="80" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="590" y="98" width="14" height="14" fill="#00802b" opacity="0.7" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.7;0.35;0.7;0.7" keyTimes="0;0.1;0.2;1" dur="2.0s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="590" y="116" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="590" y="134" width="14" height="14" fill="#004d16" opacity="0.5" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.5;0.25;0.5;0.5" keyTimes="0;0.1;0.2;1" dur="2.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="590" y="152" width="14" height="14" fill="#004d16" opacity="0.5" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.5;0.25;0.5;0.5" keyTimes="0;0.1;0.2;1" dur="2.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="590" y="170" width="14" height="14" fill="#00ff41" opacity="1.0" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="1.0;0.5;1.0;1.0" keyTimes="0;0.1;0.2;1" dur="2.0s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="590" y="188" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="608" y="80" width="14" height="14" fill="#00b33c" opacity="0.9" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.9;0.45;0.9;0.9" keyTimes="0;0.1;0.2;1" dur="2.5s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="608" y="98" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="608" y="116" width="14" height="14" fill="#00ff41" opacity="1.0" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="1.0;0.5;1.0;1.0" keyTimes="0;0.1;0.2;1" dur="2.5s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="608" y="134" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="608" y="152" width="14" height="14" fill="#00ff41" opacity="1.0" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="1.0;0.5;1.0;1.0" keyTimes="0;0.1;0.2;1" dur="2.5s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="608" y="170" width="14" height="14" fill="#004d16" opacity="0.5" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.5;0.25;0.5;0.5" keyTimes="0;0.1;0.2;1" dur="2.5s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="608" y="188" width="14" height="14" fill="#004d16" opacity="0.5" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.5;0.25;0.5;0.5" keyTimes="0;0.1;0.2;1" dur="2.5s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="626" y="80" width="14" height="14" fill="#00802b" opacity="0.7" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.7;0.35;0.7;0.7" keyTimes="0;0.1;0.2;1" dur="3.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="626" y="98" width="14" height="14" fill="#00b33c" opacity="0.9" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.9;0.45;0.9;0.9" keyTimes="0;0.1;0.2;1" dur="3.0s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="626" y="116" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="626" y="134" width="14" height="14" fill="#00b33c" opacity="0.9" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.9;0.45;0.9;0.9" keyTimes="0;0.1;0.2;1" dur="3.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="626" y="152" width="14" height="14" fill="#004d16" opacity="0.5" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.5;0.25;0.5;0.5" keyTimes="0;0.1;0.2;1" dur="3.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="626" y="170" width="14" height="14" fill="#00802b" opacity="0.7" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.7;0.35;0.7;0.7" keyTimes="0;0.1;0.2;1" dur="3.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="626" y="188" width="14" height="14" fill="#00802b" opacity="0.7" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.7;0.35;0.7;0.7" keyTimes="0;0.1;0.2;1" dur="3.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="644" y="80" width="14" height="14" fill="#00b33c" opacity="0.9" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.9;0.45;0.9;0.9" keyTimes="0;0.1;0.2;1" dur="3.5s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="644" y="98" width="14" height="14" fill="#004d16" opacity="0.5" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.5;0.25;0.5;0.5" keyTimes="0;0.1;0.2;1" dur="3.5s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="644" y="116" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="644" y="134" width="14" height="14" fill="#00802b" opacity="0.7" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.7;0.35;0.7;0.7" keyTimes="0;0.1;0.2;1" dur="3.5s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="644" y="152" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+<rect x="644" y="170" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+<rect x="644" y="188" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="662" y="80" width="14" height="14" fill="#004d16" opacity="0.5" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.5;0.25;0.5;0.5" keyTimes="0;0.1;0.2;1" dur="4.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="662" y="98" width="14" height="14" fill="#00802b" opacity="0.7" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.7;0.35;0.7;0.7" keyTimes="0;0.1;0.2;1" dur="4.0s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="662" y="116" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="662" y="134" width="14" height="14" fill="#00b33c" opacity="0.9" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.9;0.45;0.9;0.9" keyTimes="0;0.1;0.2;1" dur="4.0s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="662" y="152" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+<rect x="662" y="170" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="662" y="188" width="14" height="14" fill="#00ff41" opacity="1.0" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="1.0;0.5;1.0;1.0" keyTimes="0;0.1;0.2;1" dur="4.0s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="680" y="80" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="680" y="98" width="14" height="14" fill="#00ff41" opacity="1.0" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="1.0;0.5;1.0;1.0" keyTimes="0;0.1;0.2;1" dur="2.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="680" y="116" width="14" height="14" fill="#00b33c" opacity="0.9" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.9;0.45;0.9;0.9" keyTimes="0;0.1;0.2;1" dur="2.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="680" y="134" width="14" height="14" fill="#00ff41" opacity="1.0" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="1.0;0.5;1.0;1.0" keyTimes="0;0.1;0.2;1" dur="2.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="680" y="152" width="14" height="14" fill="#004d16" opacity="0.5" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.5;0.25;0.5;0.5" keyTimes="0;0.1;0.2;1" dur="2.0s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="680" y="170" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="680" y="188" width="14" height="14" fill="#00ff41" opacity="1.0" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="1.0;0.5;1.0;1.0" keyTimes="0;0.1;0.2;1" dur="2.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="698" y="80" width="14" height="14" fill="#00802b" opacity="0.7" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.7;0.35;0.7;0.7" keyTimes="0;0.1;0.2;1" dur="2.5s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="698" y="98" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="698" y="116" width="14" height="14" fill="#00802b" opacity="0.7" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.7;0.35;0.7;0.7" keyTimes="0;0.1;0.2;1" dur="2.5s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="698" y="134" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+<rect x="698" y="152" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+<rect x="698" y="170" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+<rect x="698" y="188" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="716" y="80" width="14" height="14" fill="#00b33c" opacity="0.9" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.9;0.45;0.9;0.9" keyTimes="0;0.1;0.2;1" dur="3.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="716" y="98" width="14" height="14" fill="#00802b" opacity="0.7" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.7;0.35;0.7;0.7" keyTimes="0;0.1;0.2;1" dur="3.0s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="716" y="116" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+<rect x="716" y="134" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="716" y="152" width="14" height="14" fill="#00ff41" opacity="1.0" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="1.0;0.5;1.0;1.0" keyTimes="0;0.1;0.2;1" dur="3.0s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="716" y="170" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+<rect x="716" y="188" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+<rect x="734" y="80" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+<rect x="734" y="98" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="734" y="116" width="14" height="14" fill="#00802b" opacity="0.7" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.7;0.35;0.7;0.7" keyTimes="0;0.1;0.2;1" dur="3.5s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="734" y="134" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="734" y="152" width="14" height="14" fill="#00802b" opacity="0.7" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.7;0.35;0.7;0.7" keyTimes="0;0.1;0.2;1" dur="3.5s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="734" y="170" width="14" height="14" fill="#004d16" opacity="0.5" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.5;0.25;0.5;0.5" keyTimes="0;0.1;0.2;1" dur="3.5s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="734" y="188" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+<rect x="752" y="80" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="752" y="98" width="14" height="14" fill="#004d16" opacity="0.5" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.5;0.25;0.5;0.5" keyTimes="0;0.1;0.2;1" dur="4.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="752" y="116" width="14" height="14" fill="#00b33c" opacity="0.9" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.9;0.45;0.9;0.9" keyTimes="0;0.1;0.2;1" dur="4.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="752" y="134" width="14" height="14" fill="#00b33c" opacity="0.9" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.9;0.45;0.9;0.9" keyTimes="0;0.1;0.2;1" dur="4.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="752" y="152" width="14" height="14" fill="#004d16" opacity="0.5" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.5;0.25;0.5;0.5" keyTimes="0;0.1;0.2;1" dur="4.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="752" y="170" width="14" height="14" fill="#004d16" opacity="0.5" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.5;0.25;0.5;0.5" keyTimes="0;0.1;0.2;1" dur="4.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="752" y="188" width="14" height="14" fill="#004d16" opacity="0.5" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.5;0.25;0.5;0.5" keyTimes="0;0.1;0.2;1" dur="4.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="770" y="80" width="14" height="14" fill="#00b33c" opacity="0.9" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.9;0.45;0.9;0.9" keyTimes="0;0.1;0.2;1" dur="2.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="770" y="98" width="14" height="14" fill="#00802b" opacity="0.7" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.7;0.35;0.7;0.7" keyTimes="0;0.1;0.2;1" dur="2.0s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="770" y="116" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+<rect x="770" y="134" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="770" y="152" width="14" height="14" fill="#00802b" opacity="0.7" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.7;0.35;0.7;0.7" keyTimes="0;0.1;0.2;1" dur="2.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="770" y="170" width="14" height="14" fill="#004d16" opacity="0.5" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.5;0.25;0.5;0.5" keyTimes="0;0.1;0.2;1" dur="2.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="770" y="188" width="14" height="14" fill="#00802b" opacity="0.7" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.7;0.35;0.7;0.7" keyTimes="0;0.1;0.2;1" dur="2.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="788" y="80" width="14" height="14" fill="#00b33c" opacity="0.9" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.9;0.45;0.9;0.9" keyTimes="0;0.1;0.2;1" dur="2.5s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="788" y="98" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+<rect x="788" y="116" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="788" y="134" width="14" height="14" fill="#00ff41" opacity="1.0" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="1.0;0.5;1.0;1.0" keyTimes="0;0.1;0.2;1" dur="2.5s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="788" y="152" width="14" height="14" fill="#00b33c" opacity="0.9" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.9;0.45;0.9;0.9" keyTimes="0;0.1;0.2;1" dur="2.5s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="788" y="170" width="14" height="14" fill="#00802b" opacity="0.7" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.7;0.35;0.7;0.7" keyTimes="0;0.1;0.2;1" dur="2.5s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="788" y="188" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+<rect x="806" y="80" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="806" y="98" width="14" height="14" fill="#00ff41" opacity="1.0" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="1.0;0.5;1.0;1.0" keyTimes="0;0.1;0.2;1" dur="3.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="806" y="116" width="14" height="14" fill="#00b33c" opacity="0.9" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.9;0.45;0.9;0.9" keyTimes="0;0.1;0.2;1" dur="3.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="806" y="134" width="14" height="14" fill="#004d16" opacity="0.5" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.5;0.25;0.5;0.5" keyTimes="0;0.1;0.2;1" dur="3.0s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="806" y="152" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+<rect x="806" y="170" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="806" y="188" width="14" height="14" fill="#00802b" opacity="0.7" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.7;0.35;0.7;0.7" keyTimes="0;0.1;0.2;1" dur="3.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="824" y="80" width="14" height="14" fill="#00b33c" opacity="0.9" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.9;0.45;0.9;0.9" keyTimes="0;0.1;0.2;1" dur="3.5s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="824" y="98" width="14" height="14" fill="#00ff41" opacity="1.0" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="1.0;0.5;1.0;1.0" keyTimes="0;0.1;0.2;1" dur="3.5s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="824" y="116" width="14" height="14" fill="#004d16" opacity="0.5" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.5;0.25;0.5;0.5" keyTimes="0;0.1;0.2;1" dur="3.5s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="824" y="134" width="14" height="14" fill="#00802b" opacity="0.7" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.7;0.35;0.7;0.7" keyTimes="0;0.1;0.2;1" dur="3.5s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="824" y="152" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+<rect x="824" y="170" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="824" y="188" width="14" height="14" fill="#00ff41" opacity="1.0" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="1.0;0.5;1.0;1.0" keyTimes="0;0.1;0.2;1" dur="3.5s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="842" y="80" width="14" height="14" fill="#00ff41" opacity="1.0" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="1.0;0.5;1.0;1.0" keyTimes="0;0.1;0.2;1" dur="4.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="842" y="98" width="14" height="14" fill="#00b33c" opacity="0.9" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.9;0.45;0.9;0.9" keyTimes="0;0.1;0.2;1" dur="4.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="842" y="116" width="14" height="14" fill="#00b33c" opacity="0.9" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.9;0.45;0.9;0.9" keyTimes="0;0.1;0.2;1" dur="4.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="842" y="134" width="14" height="14" fill="#00802b" opacity="0.7" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.7;0.35;0.7;0.7" keyTimes="0;0.1;0.2;1" dur="4.0s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="842" y="152" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="842" y="170" width="14" height="14" fill="#00b33c" opacity="0.9" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.9;0.45;0.9;0.9" keyTimes="0;0.1;0.2;1" dur="4.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="842" y="188" width="14" height="14" fill="#00b33c" opacity="0.9" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.9;0.45;0.9;0.9" keyTimes="0;0.1;0.2;1" dur="4.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="860" y="80" width="14" height="14" fill="#00802b" opacity="0.7" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.7;0.35;0.7;0.7" keyTimes="0;0.1;0.2;1" dur="2.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="860" y="98" width="14" height="14" fill="#004d16" opacity="0.5" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.5;0.25;0.5;0.5" keyTimes="0;0.1;0.2;1" dur="2.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="860" y="116" width="14" height="14" fill="#00802b" opacity="0.7" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.7;0.35;0.7;0.7" keyTimes="0;0.1;0.2;1" dur="2.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="860" y="134" width="14" height="14" fill="#004d16" opacity="0.5" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.5;0.25;0.5;0.5" keyTimes="0;0.1;0.2;1" dur="2.0s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="860" y="152" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="860" y="170" width="14" height="14" fill="#00ff41" opacity="1.0" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="1.0;0.5;1.0;1.0" keyTimes="0;0.1;0.2;1" dur="2.0s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="860" y="188" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="878" y="80" width="14" height="14" fill="#004d16" opacity="0.5" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.5;0.25;0.5;0.5" keyTimes="0;0.1;0.2;1" dur="2.5s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="878" y="98" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="878" y="116" width="14" height="14" fill="#004d16" opacity="0.5" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.5;0.25;0.5;0.5" keyTimes="0;0.1;0.2;1" dur="2.5s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="878" y="134" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+<rect x="878" y="152" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="878" y="170" width="14" height="14" fill="#00802b" opacity="0.7" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.7;0.35;0.7;0.7" keyTimes="0;0.1;0.2;1" dur="2.5s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="878" y="188" width="14" height="14" fill="#00b33c" opacity="0.9" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.9;0.45;0.9;0.9" keyTimes="0;0.1;0.2;1" dur="2.5s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="896" y="80" width="14" height="14" fill="#00ff41" opacity="1.0" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="1.0;0.5;1.0;1.0" keyTimes="0;0.1;0.2;1" dur="3.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="896" y="98" width="14" height="14" fill="#00ff41" opacity="1.0" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="1.0;0.5;1.0;1.0" keyTimes="0;0.1;0.2;1" dur="3.0s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="896" y="116" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="896" y="134" width="14" height="14" fill="#004d16" opacity="0.5" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.5;0.25;0.5;0.5" keyTimes="0;0.1;0.2;1" dur="3.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="896" y="152" width="14" height="14" fill="#00ff41" opacity="1.0" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="1.0;0.5;1.0;1.0" keyTimes="0;0.1;0.2;1" dur="3.0s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="896" y="170" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="896" y="188" width="14" height="14" fill="#00802b" opacity="0.7" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.7;0.35;0.7;0.7" keyTimes="0;0.1;0.2;1" dur="3.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="914" y="80" width="14" height="14" fill="#00ff41" opacity="1.0" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="1.0;0.5;1.0;1.0" keyTimes="0;0.1;0.2;1" dur="3.5s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="914" y="98" width="14" height="14" fill="#00802b" opacity="0.7" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.7;0.35;0.7;0.7" keyTimes="0;0.1;0.2;1" dur="3.5s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="914" y="116" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="914" y="134" width="14" height="14" fill="#00b33c" opacity="0.9" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.9;0.45;0.9;0.9" keyTimes="0;0.1;0.2;1" dur="3.5s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="914" y="152" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+<rect x="914" y="170" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+<rect x="914" y="188" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+<rect x="932" y="80" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+<rect x="932" y="98" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+<rect x="932" y="116" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+<rect x="932" y="134" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+<rect x="932" y="152" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="932" y="170" width="14" height="14" fill="#00802b" opacity="0.7" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.7;0.35;0.7;0.7" keyTimes="0;0.1;0.2;1" dur="4.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="932" y="188" width="14" height="14" fill="#004d16" opacity="0.5" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.5;0.25;0.5;0.5" keyTimes="0;0.1;0.2;1" dur="4.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="950" y="80" width="14" height="14" fill="#00802b" opacity="0.7" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.7;0.35;0.7;0.7" keyTimes="0;0.1;0.2;1" dur="2.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="950" y="98" width="14" height="14" fill="#00802b" opacity="0.7" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.7;0.35;0.7;0.7" keyTimes="0;0.1;0.2;1" dur="2.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="950" y="116" width="14" height="14" fill="#00802b" opacity="0.7" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.7;0.35;0.7;0.7" keyTimes="0;0.1;0.2;1" dur="2.0s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="950" y="134" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="950" y="152" width="14" height="14" fill="#00ff41" opacity="1.0" class="cell" filter="url(#glow)" rx="2" ry="2">
+                    <animate attributeName="opacity" values="1.0;0.5;1.0;1.0" keyTimes="0;0.1;0.2;1" dur="2.0s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="950" y="170" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="950" y="188" width="14" height="14" fill="#004d16" opacity="0.5" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.5;0.25;0.5;0.5" keyTimes="0;0.1;0.2;1" dur="2.0s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="968" y="80" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+<rect x="968" y="98" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+<rect x="968" y="116" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+<rect x="968" y="134" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+<rect x="968" y="152" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+<rect x="968" y="170" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="968" y="188" width="14" height="14" fill="#00802b" opacity="0.7" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.7;0.35;0.7;0.7" keyTimes="0;0.1;0.2;1" dur="2.5s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="986" y="80" width="14" height="14" fill="#00802b" opacity="0.7" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.7;0.35;0.7;0.7" keyTimes="0;0.1;0.2;1" dur="3.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="986" y="98" width="14" height="14" fill="#00802b" opacity="0.7" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.7;0.35;0.7;0.7" keyTimes="0;0.1;0.2;1" dur="3.0s" repeatCount="indefinite" />
+                </rect>
+                
+<rect x="986" y="116" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+<rect x="986" y="134" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+<rect x="986" y="152" width="14" height="14" fill="#050a0a" stroke="#001a05" stroke-width="1" opacity="0.3" rx="2" ry="2" />
+
+                <rect x="986" y="170" width="14" height="14" fill="#004d16" opacity="0.5" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.5;0.25;0.5;0.5" keyTimes="0;0.1;0.2;1" dur="3.0s" repeatCount="indefinite" />
+                </rect>
+                
+
+                <rect x="986" y="188" width="14" height="14" fill="#00802b" opacity="0.7" class="cell"  rx="2" ry="2">
+                    <animate attributeName="opacity" values="0.7;0.35;0.7;0.7" keyTimes="0;0.1;0.2;1" dur="3.0s" repeatCount="indefinite" />
+                </rect>
+                
+</g>
+
+    <rect y="70" width="40" height="146" fill="url(#scanGradient)">
+        <animate attributeName="x" from="10" to="1004" dur="4s" repeatCount="indefinite" />
+    </rect>
+    
+
+    <line y1="70" y2="216" stroke="#00ff41" stroke-width="2" filter="url(#glow)">
+        <animate attributeName="x1" from="50" to="1044" dur="4s" repeatCount="indefinite" />
+        <animate attributeName="x2" from="50" to="1044" dur="4s" repeatCount="indefinite" />
+    </line>
+    
+<text x="50" y="225" class="text-sub">SYSTEM IDLE</text>
+<rect x="140" y="216" width="14" height="14" fill="#050a0a" stroke="#001a05" />
+<rect x="158" y="216" width="14" height="14" fill="#004d16" />
+<rect x="176" y="216" width="14" height="14" fill="#00802b" />
+<rect x="194" y="216" width="14" height="14" fill="#00b33c" filter="url(#glow)" />
+<rect x="212" y="216" width="14" height="14" fill="#00ff41" filter="url(#strong-glow)" />
+<text x="235" y="225" class="text-sub">HEAVY BREACH DETECTED</text>
+</svg>
