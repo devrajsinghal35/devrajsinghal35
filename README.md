@@ -1,82 +1,116 @@
+<p align="center">
+  <img src="github-profile.gif" alt="Banner GIF" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Devraj+Singhal;Cybersecurity+Enthusiast;SOC+L1+Analyst;Full+Stack+Developer;Building+Secure+%26+Reliable+Systems" alt="Typing SVG" />
+</p>
+
+<h3 align="center">
+Cybersecurity • Full Stack Development • Cloud • Backend Engineering
+</h3>
+
+---
+
+### 💬 About Me
+
+I am a **Computer Science and Engineering undergraduate specializing in Cyber Security** at VIT Bhopal University, with a strong foundation in **Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks, and System Design**.
+
+I am passionate about **Cybersecurity, Threat Detection, SOC Operations, Vulnerability Assessment, Backend Development, and Cloud Computing**. I enjoy solving technical problems and building secure, reliable, and scalable solutions.
+
+I have hands-on experience as a **SOC L1 Intern**, where I worked on security alert monitoring, threat identification, vulnerability assessment, remediation tracking, and incident response reporting.
+
+I also have experience in **web application security testing**, including identifying vulnerabilities such as **SQL Injection, XSS, and CSRF**, along with network packet analysis using Wireshark.
+
+---
+
 <div align="center">
 
-# Hi, I'm Devraj Singhal
-
-### Cybersecurity • Full Stack Development • Cloud • Backend Engineering
-
-<img src="https://komarev.com/ghpvc/?username=devrajsinghal35&label=Profile%20Views&color=7F3FBF&style=for-the-badge" />
+![Profile Views](https://komarev.com/ghpvc/?username=devrajsinghal35&style=for-the-badge&color=blueviolet)
 
 </div>
 
 ---
 
-## About Me
+### 📬 Reach Me
 
-Computer Science and Engineering undergraduate specializing in **Cyber Security** at VIT Bhopal University.
-
-I am passionate about **Cybersecurity, Software Development, Cloud Computing, Backend Engineering, and System Design**. I enjoy building reliable applications, analyzing security threats, and solving complex technical problems.
-
-I have hands-on experience as a **SOC Level 1 Intern**, working with security alerts, vulnerability assessment, incident response, and threat detection.
-
-I also enjoy competitive programming and have solved **250+ DSA problems** across platforms such as LeetCode.
+- **Email:** devrajsinghal61@gmail.com
+- **LinkedIn:** [linkedin.com/in/devraj-singhal](https://linkedin.com/in/devraj-singhal)
+- **GitHub:** [github.com/devrajsinghal35](https://github.com/devrajsinghal35)
 
 ---
 
-## Tech Stack
+## 🚀 My Tech Stack
 
-### Programming Languages
+### 🧠 Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,html,css" />
-</p>
-
-### Frameworks & Libraries
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,flask,fastapi" />
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
-</p>
-
-### Cybersecurity & Networking
-
-<p>
-<img src="https://skillicons.dev/icons?i=kali,linux" />
-</p>
-
-**Cybersecurity:**  
-`Threat Detection` • `SOC Monitoring` • `Incident Response` • `Vulnerability Assessment` • `OWASP Top 10`
-
-**Security Tools:**  
-`Wireshark` • `Nmap` • `Burp Suite` • `Kali Linux`
-
-### Core Computer Science
-
-`Data Structures & Algorithms` • `OOP` • `DBMS` • `Operating Systems` • `Computer Networks` • `System Design`
-
-### Development & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github" />
-</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
-## Professional Experience
+### 🌐 Web Development
 
-### SOC L1 Intern — Techniki IT Solutions
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+
+---
+
+### 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+---
+
+### 🛡️ Cybersecurity
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+
+**Security:**  
+`Cybersecurity` • `Threat Detection` • `SOC Monitoring` • `Incident Response` • `Vulnerability Assessment`
+
+**Web Security:**  
+`OWASP Top 10` • `SQL Injection` • `XSS` • `CSRF`
+
+---
+
+### ☁️ Cloud & Tools
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### 💻 Core Computer Science
+
+`Data Structures & Algorithms` • `Object-Oriented Programming` • `DBMS` • `Operating Systems` • `Computer Networks` • `System Design`
+
+---
+
+## 💼 Professional Experience
+
+### 🔐 SOC L1 Intern — Techniki IT Solutions
+
 **May 2026 – Jul 2026**
 
 - Monitored and categorized security alerts using SIEM tools.
-- Identified phishing, malware, and network-based threats through structured analysis.
-- Performed vulnerability assessments and maintained remediation records.
-- Prepared incident response reports with technical findings and actionable recommendations.
+- Identified **phishing, malware, and network-based threats** through structured analysis.
+- Performed **vulnerability assessments** and maintained remediation records.
+- Prepared incident response reports containing technical findings and actionable recommendations.
 
-### Cyber Security Intern — The Red Users
+### 🛡️ Cyber Security Intern — The Red Users
+
 **Feb 2025 – Mar 2025**
 
 - Conducted web application security testing based on the **OWASP Top 10**.
@@ -85,116 +119,101 @@ I also enjoy competitive programming and have solved **250+ DSA problems** acros
 
 ---
 
-## Certifications
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=120&text=AWS&fontSize=55&fontColor=58A6FF&desc=AWS%20Certified%20Cloud%20Practitioner&descSize=16&descAlignY=75" />
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=120&text=MICROSOFT&fontSize=42&fontColor=58A6FF&desc=Security%20Operations%20Analyst%20Associate%20%7C%20SC-200&descSize=14&descAlignY=75" />
-
-</div>
----
-
-## Competitive Programming
-
-<div align="center">
-
-### LeetCode
-
-<img src="https://leetcard.jacoblin.cool/devrajsinghal35?theme=dark&font=baloo&ext=heatmap" />
-
-</div>
-
-### Achievements
+## 🏆 Achievements
 
 - Solved **250+ DSA problems** on platforms including LeetCode.
-- Earned a **50-day streak badge** on LeetCode.
-- Current LeetCode Rating: **1480**
+- Earned a **50-day LeetCode streak badge**.
+- LeetCode Rating: **1480**
 - Selected in the **Top 2.5% (1,000 / 40,000+)** for AlgoUniversity Graphs Camp.
 - Qualified the **Graphs Completion Test**.
 
 ---
 
-## GitHub Statistics
+## 🎓 Certifications
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devrajsinghal35&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+[![Microsoft SC-200](https://img.shields.io/badge/Microsoft-Security%20Operations%20Analyst%20Associate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/security-operations-analyst/)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devrajsinghal35&layout=compact&theme=tokyonight&hide_border=true" />
+<br><br>
+
+[![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/certified-cloud-practitioner/)
 
 </div>
 
 ---
 
-## GitHub Streak
+## 🧠 LeetCode Progress
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=devrajsinghal35&theme=tokyonight&hide_border=true" />
+<a href="https://leetcode.com/">
 
-</div>
+<img src="https://leetcard.jacoblin.cool/devrajsinghal35?theme=dark&border=0&radius=14&ext=badge&bgColor=0d1117&text=ffffff&icon_color=58A6FF" width="420">
 
----
-
-## Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devrajsinghal35&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
-
-## Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/u/devrajsinghal35/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devrajsinghal35&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devrajsinghal35&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com/?user=devrajsinghal35&theme=tokyonight&hide_border=true">
+
+</p>
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devrajsinghal35&theme=tokyo-night&hide_border=true">
+
+</p>
+
+---
+
+## 👨‍💻 Coding Profiles
+
+<div align="center">
 
 <a href="https://github.com/devrajsinghal35">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Devraj%20Singhal-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-250%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
 </a>
 
 </div>
 
 ---
 
-## Extracurricular Activities
+## 🎯 Extracurricular Activities
 
 - **Edu4U Club** — Finance Team Member
 - **AdVitya 2025, 2026** — Discipline Team Member
 
 ---
 
-## Connect With Me
-
 <div align="center">
 
-<a href="mailto:devrajsinghal61@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://linkedin.com/in/devraj-singhal">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/devrajsinghal35">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### "Building secure systems, solving hard problems, and continuously learning."
+### Building secure systems. Solving hard problems. Learning continuously.
 
 </div>
